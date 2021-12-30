@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Victor-Olimpio-Vasconcelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-Olimpio-Vasconcelos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Olimpio-Vasconcelos&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Olimpio-Vasconcelos&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Victor-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
